@@ -1,0 +1,1544 @@
+{
+  "adverts_list": {
+    "adverts": [
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Brand New" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "event_params": {
+          "cpc_campaign_id": 847,
+          "listing_options": ["search"],
+          "position_type": "cpc"
+        },
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["ahIjamzMdTZWj9lqI7cjgt19"],
+          "content_name": "New Royal Air Conditioner 1.5hp Inverter Gencool With Kits",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "ahIjamzMdTZWj9lqI7cjgt19",
+        "id": 27461466,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/80432655_MzAwLTIyNi03MWEzMGJiNDRi.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 226],
+            "url": "https://pictures-nigeria.jijistatic.com/80432655_MzAwLTIyNi03MWEzMGJiNDRi.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "enterprise",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fojo%2Fhome-appliances%2Fnew-royal-air-conditioner-1-5hp-inverter-gencool-with-kits-ahIjamzMdTZWj9lqI7cjgt19.html%3Fpage%3D2%26pos%3D1%26cur_pos%3D1%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "enterprise",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 185000,
+          "view": "\u20a6 185,000"
+        },
+        "region_id": 164,
+        "region_item_text": "Lagos, Ojo",
+        "region_name": "Ojo",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ojo",
+        "short_description": "Key Features\n1.5HP split \nR410 Gas\nDual gencool inverter \nCopper Coil\nTurbo Operation \nLED display...",
+        "slug": "new-royal-air-conditioner-1-5hp-inverter-gencool-with-kits",
+        "status": "active",
+        "title": "New Royal Air Conditioner 1.5hp Inverter Gencool With Kits",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ojo/home-appliances/new-royal-air-conditioner-1-5hp-inverter-gencool-with-kits-ahIjamzMdTZWj9lqI7cjgt19.html?page=2&pos=1&cur_pos=1&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8240338,
+        "user_phone": "08132617006"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Brand New" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "event_params": {
+          "cpc_campaign_id": 847,
+          "listing_options": ["search"],
+          "position_type": "cpc"
+        },
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["dWWCt6d3pXMckE8D1OkDFLE3"],
+          "content_name": "LG 2hp Smart Inverter Gencool Floor Stand Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "dWWCt6d3pXMckE8D1OkDFLE3",
+        "id": 27437754,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/80319776_MzAwLTM3NC0yYWFiNzkwYWI2.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 374],
+            "url": "https://pictures-nigeria.jijistatic.com/80319776_MzAwLTM3NC0yYWFiNzkwYWI2.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": "enterprise",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fojo%2Fhome-appliances%2Flg-2hp-smart-inverter-gencool-floor-stand-air-conditioner-dWWCt6d3pXMckE8D1OkDFLE3.html%3Fpage%3D2%26pos%3D2%26cur_pos%3D2%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "enterprise",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 490000,
+          "view": "\u20a6 490,000"
+        },
+        "region_id": 164,
+        "region_item_text": "Lagos, Ojo",
+        "region_name": "Ojo",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ojo",
+        "short_description": "Original new one LG products are known to be tested and trusted, just like the LG FS 2HP Inverter...",
+        "slug": "lg-2hp-smart-inverter-gencool-floor-stand-air-conditioner",
+        "status": "active",
+        "title": "LG 2hp Smart Inverter Gencool Floor Stand Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ojo/home-appliances/lg-2hp-smart-inverter-gencool-floor-stand-air-conditioner-dWWCt6d3pXMckE8D1OkDFLE3.html?page=2&pos=2&cur_pos=2&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8240338,
+        "user_phone": "08132617006"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Brand New" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "event_params": {
+          "cpc_campaign_id": 847,
+          "listing_options": ["search"],
+          "position_type": "cpc"
+        },
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["mGPi3GOQTQmkFMcEoT8exQQT"],
+          "content_name": "Aeon Air Conditioner 1.5HP Split Copper Installation Kits",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "mGPi3GOQTQmkFMcEoT8exQQT",
+        "id": 27100222,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/78718082_MzAwLTIxNS1mYzUwYTMxY2Vi.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 215],
+            "url": "https://pictures-nigeria.jijistatic.com/78718082_MzAwLTIxNS1mYzUwYTMxY2Vi.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": "enterprise",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fojo%2Fhome-appliances%2Faeon-air-conditioner-1-5hp-split-copper-installation-kits-mGPi3GOQTQmkFMcEoT8exQQT.html%3Fpage%3D2%26pos%3D3%26cur_pos%3D3%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "enterprise",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 137000,
+          "view": "\u20a6 137,000"
+        },
+        "region_id": 164,
+        "region_item_text": "Lagos, Ojo",
+        "region_name": "Ojo",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ojo",
+        "short_description": "AEON 1.5hp Split unit\nair conditioner\nAuto re-start\neco energy saving technology\nr22 green...",
+        "slug": "aeon-air-conditioner-1-5hp-split-copper-installation-kits",
+        "status": "active",
+        "title": "Aeon Air Conditioner 1.5HP Split Copper Installation Kits",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ojo/home-appliances/aeon-air-conditioner-1-5hp-split-copper-installation-kits-mGPi3GOQTQmkFMcEoT8exQQT.html?page=2&pos=3&cur_pos=3&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8240338,
+        "user_phone": "08132617006"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          {
+            "name": "Bedrooms",
+            "semantic_value": "5 bedrooms",
+            "unit": null,
+            "value": 5
+          },
+          {
+            "name": "Bathrooms",
+            "semantic_value": "5 bathrooms",
+            "unit": null,
+            "value": 5
+          },
+          { "name": "Furnishing", "unit": null, "value": "Unfurnished" },
+          { "name": "Property size", "unit": "sqm", "value": 600 }
+        ],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "Diamond",
+          "service_type": "boost",
+          "slug": "booster_diamond",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 1, "type": "vip_plus" },
+        "can_view_contacts": true,
+        "category_name": "Houses & Apartments For Sale",
+        "category_slug": "houses-apartments-for-sale",
+        "event_params": { "booster_info": { "count": 1, "type": "vip_plus" } },
+        "fb_view_content_data": {
+          "content_category": "Houses and Apartments For Sale",
+          "content_ids": ["uUNI4gjIUKeCciMyY4jFMHa7"],
+          "content_name": "5bdrm Duplex in Diamond Estate, Enugu for Sale",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.24"
+        },
+        "guid": "uUNI4gjIUKeCciMyY4jFMHa7",
+        "id": 31983107,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/101056456_MzAwLTQwMC1iODA5YzZhMGNl.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/101056456_MzAwLTQwMC1iODA5YzZhMGNl.jpg"
+          }
+        ],
+        "images_count": 8,
+        "is_boost": "diamond",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fenugu-north%2Fhouses-apartments-for-sale%2F5bdrm-duplex-in-diamond-estate-enugu-for-sale-uUNI4gjIUKeCciMyY4jFMHa7.html%3Fpage%3D2%26pos%3D4%26cur_pos%3D4%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#00B53F",
+          "icon": true,
+          "more_photos": false,
+          "package_title": "DIAMOND",
+          "package_type": "diamond",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 150000000,
+          "view": "\u20a6 150,000,000"
+        },
+        "region_id": 768,
+        "region_item_text": "Enugu, Enugu / Enugu State",
+        "region_name": "Enugu",
+        "region_parent_name": "Enugu State",
+        "region_slug": "enugu",
+        "short_description": "5 bedroom duplex at diamond estate with 2 massive sitting room up and down with enough parking space",
+        "slug": "5bdrm-duplex-in-diamond-estate-enugu-for-sale",
+        "status": "active",
+        "title": "5bdrm Duplex in Diamond Estate, Enugu for Sale",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/enugu-north/houses-apartments-for-sale/5bdrm-duplex-in-diamond-estate-enugu-for-sale-uUNI4gjIUKeCciMyY4jFMHa7.html?page=2&pos=4&cur_pos=4&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 5969338,
+        "user_phone": "08114516172"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          {
+            "name": "Bedrooms",
+            "semantic_value": "3 bedrooms",
+            "unit": null,
+            "value": 3
+          },
+          {
+            "name": "Bathrooms",
+            "semantic_value": "5 bathrooms",
+            "unit": null,
+            "value": 5
+          },
+          { "name": "Furnishing", "unit": null, "value": "Furnished" },
+          { "name": "Property size", "unit": "sqm", "value": 180 }
+        ],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "17X Enterprise",
+          "service_type": "boost",
+          "slug": "booster_enterprise_multi",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 17, "type": "vip_plus" },
+        "can_view_contacts": true,
+        "category_name": "Houses & Apartments For Sale",
+        "category_slug": "houses-apartments-for-sale",
+        "event_params": { "booster_info": { "count": 17, "type": "vip_plus" } },
+        "fb_view_content_data": {
+          "content_category": "Houses and Apartments For Sale",
+          "content_ids": ["vW178L4d4PYJctEBNlXbn8TA"],
+          "content_name": "Furnished 3bdrm Townhouse/Terrace in Brains and Hammers, Apo District",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.24"
+        },
+        "guid": "vW178L4d4PYJctEBNlXbn8TA",
+        "id": 33496344,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/107957272_MzAwLTIyNS0zYWZjMzI3MTI3.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/107957272_MzAwLTIyNS0zYWZjMzI3MTI3.jpg"
+          }
+        ],
+        "images_count": 19,
+        "is_boost": "enterprise",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fapo-district%2Fhouses-apartments-for-sale%2Ffurnished-3bdrm-townhouse-terrace-in-brains-and-hammers-apo-district-vW178L4d4PYJctEBNlXbn8TA.html%3Fpage%3D2%26pos%3D5%26cur_pos%3D5%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#00B53F",
+          "icon": true,
+          "more_photos": false,
+          "package_title": "ENTERPRISE",
+          "package_type": "enterprise",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 220000000,
+          "view": "\u20a6 220,000,000"
+        },
+        "region_id": 445,
+        "region_item_text": "Abuja, Apo District",
+        "region_name": "Apo District",
+        "region_parent_name": "Abuja (FCT) State",
+        "region_slug": "apo-district",
+        "short_description": "3 BED | APO | \u20a6220,000,000\nAn automated and fully furnished 3 bedroom townhouse with an overall...",
+        "slug": "furnished-3bdrm-townhouse-terrace-in-brains-and-hammers-apo-district",
+        "status": "active",
+        "title": "Furnished 3bdrm Townhouse/Terrace in Brains and Hammers, Apo District",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/apo-district/houses-apartments-for-sale/furnished-3bdrm-townhouse-terrace-in-brains-and-hammers-apo-district-vW178L4d4PYJctEBNlXbn8TA.html?page=2&pos=5&cur_pos=5&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 2417186,
+        "user_phone": "08135339459"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "VIP TOP+",
+          "service_type": "boost",
+          "slug": "booster_vip",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 1, "type": "vip" },
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "event_params": { "booster_info": { "count": 1, "type": "vip" } },
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["i0hfYtz9XO3QVYg0tdKORVoS"],
+          "content_name": "Uk Used 1.5hp Hairthermocool Unit Ac Tested Okay",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "i0hfYtz9XO3QVYg0tdKORVoS",
+        "id": 34854895,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/114267981_MzAwLTQwMC1mY2JmYzY0ZDcw.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/114267981_MzAwLTQwMC1mY2JmYzY0ZDcw.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "vip",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fikeja%2Fhome-appliances%2Fuk-used-1-5hp-hairthermocool-unit-ac-tested-okay-i0hfYtz9XO3QVYg0tdKORVoS.html%3Fpage%3D2%26pos%3D6%26cur_pos%3D6%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#FEA03C",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 75000,
+          "view": "\u20a6 75,000"
+        },
+        "region_id": 146,
+        "region_item_text": "Lagos, Ikeja",
+        "region_name": "Ikeja",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ikeja",
+        "short_description": "1.5hp Hairthermocool unit Ac Uk used tested okay",
+        "slug": "uk-used-1-5hp-hairthermocool-unit-ac-tested-okay",
+        "status": "active",
+        "title": "Uk Used 1.5hp Hairthermocool Unit Ac Tested Okay",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ikeja/home-appliances/uk-used-1-5hp-hairthermocool-unit-ac-tested-okay-i0hfYtz9XO3QVYg0tdKORVoS.html?page=2&pos=6&cur_pos=6&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 11133064,
+        "user_phone": "08092201839"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "VIP TOP+",
+          "service_type": "boost",
+          "slug": "booster_vip",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 1, "type": "vip" },
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "event_params": { "booster_info": { "count": 1, "type": "vip" } },
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["fcNbWXOO7QpeliCc1FoAzLMp"],
+          "content_name": "Uk Used LG Standing Unit",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "fcNbWXOO7QpeliCc1FoAzLMp",
+        "id": 34855165,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/114269603_MzAwLTQwMC0xNDZiZTQ2NTQ5.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/114269603_MzAwLTQwMC0xNDZiZTQ2NTQ5.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": "vip",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fajah%2Fhome-appliances%2Fuk-used-lg-standing-unit-fcNbWXOO7QpeliCc1FoAzLMp.html%3Fpage%3D2%26pos%3D7%26cur_pos%3D7%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#FEA03C",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 220000,
+          "view": "\u20a6 220,000"
+        },
+        "region_id": 137,
+        "region_item_text": "Lagos, Ajah",
+        "region_name": "Ajah",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ajah",
+        "short_description": "3hp LG Standing Unit Ac tested okay Uk Used",
+        "slug": "uk-used-lg-standing-unit",
+        "status": "active",
+        "title": "Uk Used LG Standing Unit",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ajah/home-appliances/uk-used-lg-standing-unit-fcNbWXOO7QpeliCc1FoAzLMp.html?page=2&pos=7&cur_pos=7&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 11133064,
+        "user_phone": "08092201839"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "TOP+",
+          "service_type": "boost",
+          "slug": "booster",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 1, "type": "boosters" },
+        "can_view_contacts": true,
+        "category_name": "Other Services",
+        "category_slug": "other-services",
+        "event_params": { "booster_info": { "count": 1, "type": "boosters" } },
+        "fb_view_content_data": {
+          "content_category": "Other Services",
+          "content_ids": ["clqcmxECFjvM4P8o4BCnpRTj"],
+          "content_name": "AC Installation and Maintenance",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.15"
+        },
+        "guid": "clqcmxECFjvM4P8o4BCnpRTj",
+        "id": 33723297,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/109016611_MzAwLTYxNC1kNzU2ZDAyZjE4.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 614],
+            "url": "https://pictures-nigeria.jijistatic.com/109016611_MzAwLTYxNC1kNzU2ZDAyZjE4.jpg"
+          }
+        ],
+        "images_count": 9,
+        "is_boost": "premium",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fado-ekiti%2Fother-services%2Fac-installation-and-maintenance-clqcmxECFjvM4P8o4BCnpRTj.html%3Fpage%3D2%26pos%3D8%26cur_pos%3D8%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#FEA03C",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "premium",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": "per service",
+          "value": 10000,
+          "view": "\u20a6 10,000"
+        },
+        "region_id": 792,
+        "region_item_text": "Ekiti, Ado Ekiti",
+        "region_name": "Ado Ekiti",
+        "region_parent_name": "Ekiti State",
+        "region_slug": "ado-ekiti",
+        "short_description": "Ventures Quality Air conditioner installation Service is carefully render with ideal tools",
+        "slug": "ac-installation-and-maintenance",
+        "status": "active",
+        "title": "AC Installation and Maintenance",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ado-ekiti/other-services/ac-installation-and-maintenance-clqcmxECFjvM4P8o4BCnpRTj.html?page=2&pos=8&cur_pos=8&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 4892232,
+        "user_phone": "07066331466"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["7QJ7zf1vXbuYmSUHsFrgtmYz"],
+          "content_name": "Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "7QJ7zf1vXbuYmSUHsFrgtmYz",
+        "id": 34646361,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/113301552_MzAwLTIyNS03OTJkZDJjZTg2.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/113301552_MzAwLTIyNS03OTJkZDJjZTg2.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Flekki%2Fhome-appliances%2Fair-conditioner-7QJ7zf1vXbuYmSUHsFrgtmYz.html%3Fpage%3D2%26pos%3D9%26cur_pos%3D9%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 90000,
+          "view": "\u20a6 90,000"
+        },
+        "region_id": 160,
+        "region_item_text": "Lagos, Lekki",
+        "region_name": "Lekki",
+        "region_parent_name": "Lagos State",
+        "region_slug": "lekki",
+        "short_description": "One and half horsepower LG and Samsung AC",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/lekki/home-appliances/air-conditioner-7QJ7zf1vXbuYmSUHsFrgtmYz.html?page=2&pos=9&cur_pos=9&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 11077861,
+        "user_phone": "09129120878"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["rJbs0mTAz9OSbKfXbr51H3zO"],
+          "content_name": "Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "rJbs0mTAz9OSbKfXbr51H3zO",
+        "id": 30911114,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/96238771_MzAwLTQwMC05YzIyNDgzM2Qy.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/96238771_MzAwLTQwMC05YzIyNDgzM2Qy.jpg"
+          }
+        ],
+        "images_count": 3,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fmaryland%2Fhome-appliances%2Fair-conditioner-rJbs0mTAz9OSbKfXbr51H3zO.html%3Fpage%3D2%26pos%3D10%26cur_pos%3D10%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 40000,
+          "view": "\u20a6 40,000"
+        },
+        "region_id": 168,
+        "region_item_text": "Lagos, Maryland",
+        "region_name": "Maryland",
+        "region_parent_name": "Lagos State",
+        "region_slug": "maryland",
+        "short_description": "This is a direct 1 HP tokunbo ac, german product, never been repaired(factory fitted) and working...",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/maryland/home-appliances/air-conditioner-rJbs0mTAz9OSbKfXbr51H3zO.html?page=2&pos=10&cur_pos=10&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 3784853,
+        "user_phone": "08122228040"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["5WiUKm7U4zMacpUKj3MEU2KI"],
+          "content_name": "Air-Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "5WiUKm7U4zMacpUKj3MEU2KI",
+        "id": 34844801,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/114295011_MzAwLTY1MC00YzMyZTNmNGY5.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 650],
+            "url": "https://pictures-nigeria.jijistatic.com/114295011_MzAwLTY1MC00YzMyZTNmNGY5.jpg"
+          }
+        ],
+        "images_count": 3,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Famuwo-odofin%2Fhome-appliances%2Fair-conditioner-5WiUKm7U4zMacpUKj3MEU2KI.html%3Fpage%3D2%26pos%3D11%26cur_pos%3D11%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 30000,
+          "view": "\u20a6 30,000"
+        },
+        "region_id": 125,
+        "region_item_text": "Lagos, Amuwo-Odofin",
+        "region_name": "Amuwo-Odofin",
+        "region_parent_name": "Lagos State",
+        "region_slug": "amuwo-odofin",
+        "short_description": "Ac is in good working condition",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air-Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/amuwo-odofin/home-appliances/air-conditioner-5WiUKm7U4zMacpUKj3MEU2KI.html?page=2&pos=11&cur_pos=11&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8647764,
+        "user_phone": "08065703328"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["5wmLJV9NyydHS4IZYLd1mXdg"],
+          "content_name": "A/C (Air Condition",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "5wmLJV9NyydHS4IZYLd1mXdg",
+        "id": 23613864,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/63440496_img-20210310-133719_300x400.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/63440496_img-20210310-133719_300x400.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "diamond",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fwuse%2Fhome-appliances%2Fa-c-air-condition-5wmLJV9NyydHS4IZYLd1mXdg.html%3Fpage%3D2%26pos%3D12%26cur_pos%3D12%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "diamond",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 40000,
+          "view": "\u20a6 40,000"
+        },
+        "region_id": 447,
+        "region_item_text": "Abuja, Wuse",
+        "region_name": "Wuse",
+        "region_parent_name": "Abuja (FCT) State",
+        "region_slug": "wuse",
+        "short_description": "1.5 horse power used ac, affordable price",
+        "slug": "a-c-air-condition",
+        "status": "active",
+        "title": "A/C (Air Condition",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/wuse/home-appliances/a-c-air-condition-5wmLJV9NyydHS4IZYLd1mXdg.html?page=2&pos=12&cur_pos=12&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 2038416,
+        "user_phone": "08032211241"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["yAZxKOi8gUyskeKo4wJnpZxl"],
+          "content_name": "Air Conditioner Compressor",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "yAZxKOi8gUyskeKo4wJnpZxl",
+        "id": 27472328,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/80549103_MzAwLTQwMC03YWZmZThiZTA2.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/80549103_MzAwLTQwMC03YWZmZThiZTA2.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "vip_gold",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fsurulere%2Fhome-appliances%2Fair-conditioner-compressor-yAZxKOi8gUyskeKo4wJnpZxl.html%3Fpage%3D2%26pos%3D13%26cur_pos%3D13%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip_gold",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 20000,
+          "view": "\u20a6 20,000"
+        },
+        "region_id": 174,
+        "region_item_text": "Lagos, Surulere",
+        "region_name": "Surulere",
+        "region_parent_name": "Lagos State",
+        "region_slug": "surulere",
+        "short_description": "Quality compressors with six months warranty",
+        "slug": "air-conditioner-compressor",
+        "status": "active",
+        "title": "Air Conditioner Compressor",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/surulere/home-appliances/air-conditioner-compressor-yAZxKOi8gUyskeKo4wJnpZxl.html?page=2&pos=13&cur_pos=13&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8312024,
+        "user_phone": "08067938737"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["rmTvwOjdmKkRaSyZOVWNTjTU"],
+          "content_name": "Korean Air Conditioners",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "rmTvwOjdmKkRaSyZOVWNTjTU",
+        "id": 27511854,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/80668000_MzAwLTQwMC1hYjM0ZWNkZDYx.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/80668000_MzAwLTQwMC1hYjM0ZWNkZDYx.jpg"
+          }
+        ],
+        "images_count": 3,
+        "is_boost": "vip_gold",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Filupeju%2Fhome-appliances%2Fkorean-air-conditioners-rmTvwOjdmKkRaSyZOVWNTjTU.html%3Fpage%3D2%26pos%3D14%26cur_pos%3D14%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip_gold",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 70000,
+          "view": "\u20a6 70,000"
+        },
+        "region_id": 163,
+        "region_item_text": "Lagos, Ilupeju",
+        "region_name": "Ilupeju",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ilupeju",
+        "short_description": "Very clean and durable air conditioners with six months warranty",
+        "slug": "korean-air-conditioners",
+        "status": "active",
+        "title": "Korean Air Conditioners",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ilupeju/home-appliances/korean-air-conditioners-rmTvwOjdmKkRaSyZOVWNTjTU.html?page=2&pos=14&cur_pos=14&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 8312024,
+        "user_phone": "08067938737"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["3Hk99wjhxCONIMMBs5gWRxPm"],
+          "content_name": "Carrier Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "3Hk99wjhxCONIMMBs5gWRxPm",
+        "id": 24150418,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/65678427_MzAwLTE0Mi1iNThjYTQ0NDFi.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 142],
+            "url": "https://pictures-nigeria.jijistatic.com/65678427_MzAwLTE0Mi1iNThjYTQ0NDFi.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": "vip_gold",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fojota%2Fhome-appliances%2Fcarrier-air-conditioner-3Hk99wjhxCONIMMBs5gWRxPm.html%3Fpage%3D2%26pos%3D15%26cur_pos%3D15%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip_gold",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 100000,
+          "view": "\u20a6 100,000"
+        },
+        "region_id": 912,
+        "region_item_text": "Lagos, Ojota",
+        "region_name": "Ojota",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ojota",
+        "short_description": "Perfectly used carrier air conditioners 1hp,1.5 hp,2hp.\nnationwide delivery .\ntested and trusted",
+        "slug": "carrier-air-conditioner",
+        "status": "active",
+        "title": "Carrier Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ojota/home-appliances/carrier-air-conditioner-3Hk99wjhxCONIMMBs5gWRxPm.html?page=2&pos=15&cur_pos=15&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 6783555,
+        "user_phone": "08169741333"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["oXdcaShn0RT9tCMhGtQ4G8rU"],
+          "content_name": "LG Airconditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "oXdcaShn0RT9tCMhGtQ4G8rU",
+        "id": 25507389,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/71556297_MzAwLTQwMC1kOWE3YTE3NGQ2.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/71556297_MzAwLTQwMC1kOWE3YTE3NGQ2.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fport-harcourt%2Fhome-appliances%2Flg-airconditioner-oXdcaShn0RT9tCMhGtQ4G8rU.html%3Fpage%3D2%26pos%3D16%26cur_pos%3D16%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 80000,
+          "view": "\u20a6 80,000"
+        },
+        "region_id": 117,
+        "region_item_text": "Rivers, Port-Harcourt",
+        "region_name": "Port-Harcourt",
+        "region_parent_name": "Rivers State",
+        "region_slug": "port-harcourt",
+        "short_description": "Tested lg airconditioner almost new",
+        "slug": "lg-airconditioner",
+        "status": "active",
+        "title": "LG Airconditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/port-harcourt/home-appliances/lg-airconditioner-oXdcaShn0RT9tCMhGtQ4G8rU.html?page=2&pos=16&cur_pos=16&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 2930499,
+        "user_phone": "08067876137"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "TOP+",
+          "service_type": "boost",
+          "slug": "booster",
+          "text_color": "#ffffff"
+        },
+        "booster_info": { "count": 1, "type": "boosters" },
+        "can_view_contacts": true,
+        "category_name": "Logistics Services",
+        "category_slug": "logistics-services",
+        "event_params": { "booster_info": { "count": 1, "type": "boosters" } },
+        "fb_view_content_data": {
+          "content_category": "Logistics Services",
+          "content_ids": ["anTCQmv0bjE2qqi4GIxtZ9BD"],
+          "content_name": "Export Food Stuffs Other Goods to USA",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.15"
+        },
+        "guid": "anTCQmv0bjE2qqi4GIxtZ9BD",
+        "id": 22716551,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/59498075_maxresdefault-0_300x169.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 169],
+            "url": "https://pictures-nigeria.jijistatic.com/59498075_maxresdefault-0_300x169.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "premium",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fikeja%2Fremovals-and-storage-services%2Fexport-food-stuffs-other-goods-to-usa-anTCQmv0bjE2qqi4GIxtZ9BD.html%3Fpage%3D2%26pos%3D17%26cur_pos%3D17%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#FEA03C",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "premium",
+          "text": "Promoted"
+        },
+        "price_obj": { "period": null, "value": 3000, "view": "\u20a6 3,000" },
+        "region_id": 146,
+        "region_item_text": "Lagos, Ikeja",
+        "region_name": "Ikeja",
+        "region_parent_name": "Lagos State",
+        "region_slug": "ikeja",
+        "short_description": "We can export your food stuffs and goods to usa , canada and uk in good condition. call081*********",
+        "slug": "export-food-stuffs-other-goods-to-usa",
+        "status": "active",
+        "title": "Export Food Stuffs Other Goods to USA",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ikeja/removals-and-storage-services/export-food-stuffs-other-goods-to-usa-anTCQmv0bjE2qqi4GIxtZ9BD.html?page=2&pos=17&cur_pos=17&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 1697555,
+        "user_phone": "08176714002"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {
+          "aside_color": "#229826",
+          "bg_color": "#00B53F",
+          "label": "Diamond",
+          "service_type": "boost",
+          "slug": "booster_diamond",
+          "text_color": "#ffffff"
+        },
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["i1bOi7FyUnZSsUxuZjnu6AhP"],
+          "content_name": "Korean Air Conditioners",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "i1bOi7FyUnZSsUxuZjnu6AhP",
+        "id": 25446588,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/71289962_MzAwLTQwMC01N2UxNmY4Mjcz.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/71289962_MzAwLTQwMC01N2UxNmY4Mjcz.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": "diamond",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fsurulere%2Fhome-appliances%2Fkorean-air-conditioners-i1bOi7FyUnZSsUxuZjnu6AhP.html%3Fpage%3D2%26pos%3D18%26cur_pos%3D18%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "#00B53F",
+          "icon": true,
+          "more_photos": false,
+          "package_title": "DIAMOND",
+          "package_type": "diamond",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 70000,
+          "view": "\u20a6 70,000"
+        },
+        "region_id": 174,
+        "region_item_text": "Lagos, Surulere",
+        "region_name": "Surulere",
+        "region_parent_name": "Lagos State",
+        "region_slug": "surulere",
+        "short_description": "Quality korean air conditioner with great cooling capacity still very clean and new with warrantee...",
+        "slug": "korean-air-conditioners",
+        "status": "active",
+        "title": "Korean Air Conditioners",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/surulere/home-appliances/korean-air-conditioners-i1bOi7FyUnZSsUxuZjnu6AhP.html?page=2&pos=18&cur_pos=18&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 7670077,
+        "user_phone": "08179146529"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [{ "name": "Condition", "unit": null, "value": "Used" }],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["dQs5yYh9zCRTNWIbNkQ0ovMn"],
+          "content_name": "All Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "dQs5yYh9zCRTNWIbNkQ0ovMn",
+        "id": 25456411,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/71606371_MzAwLTIyNS01MDVmOWE1YjJjLTE.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/71606371_MzAwLTIyNS01MDVmOWE1YjJjLTE.jpg"
+          }
+        ],
+        "images_count": 4,
+        "is_boost": "vip_gold",
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fibadan%2Fhome-appliances%2Fall-air-conditioner-dQs5yYh9zCRTNWIbNkQ0ovMn.html%3Fpage%3D2%26pos%3D19%26cur_pos%3D19%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {
+          "border": "",
+          "icon": true,
+          "more_photos": false,
+          "package_type": "vip_gold",
+          "text": "Promoted"
+        },
+        "price_obj": {
+          "period": null,
+          "value": 70000,
+          "view": "\u20a6 70,000"
+        },
+        "region_id": 366,
+        "region_item_text": "Oyo, Ibadan",
+        "region_name": "Ibadan",
+        "region_parent_name": "Oyo State",
+        "region_slug": "ibadan",
+        "short_description": "Uk and korean used ac with one year warranty",
+        "slug": "all-air-conditioner",
+        "status": "active",
+        "title": "All Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/ibadan/home-appliances/all-air-conditioner-dQs5yYh9zCRTNWIbNkQ0ovMn.html?page=2&pos=19&cur_pos=19&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 7325092,
+        "user_phone": "09017886204"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["aCpDgL0VQklhEKrzp3jtVS2x"],
+          "content_name": "Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "aCpDgL0VQklhEKrzp3jtVS2x",
+        "id": 34762331,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/113821930_MzAwLTIyNS04Yjg0ODlhYzRh.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/113821930_MzAwLTIyNS04Yjg0ODlhYzRh.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fport-harcourt%2Fhome-appliances%2Fair-conditioner-aCpDgL0VQklhEKrzp3jtVS2x.html%3Fpage%3D2%26pos%3D20%26cur_pos%3D20%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 130000,
+          "view": "\u20a6 130,000"
+        },
+        "region_id": 117,
+        "region_item_text": "Rivers, Port-Harcourt",
+        "region_name": "Port-Harcourt",
+        "region_parent_name": "Rivers State",
+        "region_slug": "port-harcourt",
+        "short_description": "Used 1.5hp ac for sale. location woji",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/port-harcourt/home-appliances/air-conditioner-aCpDgL0VQklhEKrzp3jtVS2x.html?page=2&pos=20&cur_pos=20&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 11117843,
+        "user_phone": "08053344050"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["k2QR28I4TQzQZoXLeocdwb4f"],
+          "content_name": "Air Condition",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "k2QR28I4TQzQZoXLeocdwb4f",
+        "id": 34735779,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/113698819_MzAwLTIyNS00MzhkMDdmMDYw.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/113698819_MzAwLTIyNS00MzhkMDdmMDYw.jpg"
+          }
+        ],
+        "images_count": 1,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fenugu-north%2Fhome-appliances%2Fair-condition-k2QR28I4TQzQZoXLeocdwb4f.html%3Fpage%3D2%26pos%3D21%26cur_pos%3D21%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 105000,
+          "view": "\u20a6 105,000"
+        },
+        "region_id": 768,
+        "region_item_text": "Enugu, Enugu / Enugu State",
+        "region_name": "Enugu",
+        "region_parent_name": "Enugu State",
+        "region_slug": "enugu",
+        "short_description": "1.5hp AC, chilling like Canada. Very neat nd sound.",
+        "slug": "air-condition",
+        "status": "active",
+        "title": "Air Condition",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/enugu-north/home-appliances/air-condition-k2QR28I4TQzQZoXLeocdwb4f.html?page=2&pos=21&cur_pos=21&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 5007854,
+        "user_phone": "08119330823"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["pNDBRxgwajEYLMgIerez4d6x"],
+          "content_name": "Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "pNDBRxgwajEYLMgIerez4d6x",
+        "id": 34832422,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/114400415_MzAwLTIyNS1hN2UwNjIyMzQ5.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 225],
+            "url": "https://pictures-nigeria.jijistatic.com/114400415_MzAwLTIyNS1hN2UwNjIyMzQ5.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fowerri-municipal%2Fhome-appliances%2Fair-conditioner-pNDBRxgwajEYLMgIerez4d6x.html%3Fpage%3D2%26pos%3D22%26cur_pos%3D22%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 135000,
+          "view": "\u20a6 135,000"
+        },
+        "region_id": 353,
+        "region_item_text": "Imo, Owerri",
+        "region_name": "Owerri",
+        "region_parent_name": "Imo State",
+        "region_slug": "owerri",
+        "short_description": "I'm ready to meet in person or we can discuss suitable means of delivery. Feel free to ask any...",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/owerri-municipal/home-appliances/air-conditioner-pNDBRxgwajEYLMgIerez4d6x.html?page=2&pos=22&cur_pos=22&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 11083164,
+        "user_phone": "08140478558"
+      },
+      {
+        "admin_info": {},
+        "as_top": false,
+        "attrs": [
+          { "name": "Condition", "unit": null, "value": "Used" },
+          { "name": "Inverter Technology", "unit": null, "value": "No" }
+        ],
+        "badge_info": {},
+        "can_view_contacts": true,
+        "category_name": "Home Appliances",
+        "category_slug": "home-appliances",
+        "fb_view_content_data": {
+          "content_category": "Home Appliances",
+          "content_ids": ["pCONgxLqurl21wdInEsiMl9s"],
+          "content_name": "Air Conditioner",
+          "content_type": "product",
+          "currency": "USD",
+          "value": "0.11"
+        },
+        "guid": "pCONgxLqurl21wdInEsiMl9s",
+        "id": 34716115,
+        "image_obj": {
+          "center": null,
+          "url": "https://pictures-nigeria.jijistatic.com/113612393_MzAwLTQwMC0wZTZlYmQzMDUx.jpg"
+        },
+        "images": [
+          {
+            "center": null,
+            "size": [300, 400],
+            "url": "https://pictures-nigeria.jijistatic.com/113612393_MzAwLTQwMC0wZTZlYmQzMDUx.jpg"
+          }
+        ],
+        "images_count": 2,
+        "is_boost": false,
+        "is_cv": false,
+        "is_job": false,
+        "is_owner": false,
+        "is_top": false,
+        "message_url": "/login.html?type=reply-form&url=%2Fenugu-north%2Fhome-appliances%2Fair-conditioner-pCONgxLqurl21wdInEsiMl9s.html%3Fpage%3D2%26pos%3D23%26cur_pos%3D23%26ads_per_page%3D23%26ads_count%3D48615%26lid%3DamgxJ23KXYKuOL-H",
+        "paid_info": {},
+        "price_obj": {
+          "period": null,
+          "value": 90000,
+          "view": "\u20a6 90,000"
+        },
+        "region_id": 768,
+        "region_item_text": "Enugu, Enugu / Enugu State",
+        "region_name": "Enugu",
+        "region_parent_name": "Enugu State",
+        "region_slug": "enugu",
+        "short_description": "Neatly used and in good condition",
+        "slug": "air-conditioner",
+        "status": "active",
+        "title": "Air Conditioner",
+        "title_labels": [],
+        "tops_count": 0,
+        "url": "/enugu-north/home-appliances/air-conditioner-pCONgxLqurl21wdInEsiMl9s.html?page=2&pos=23&cur_pos=23&ads_per_page=23&ads_count=48615&lid=amgxJ23KXYKuOL-H",
+        "user_id": 5051439,
+        "user_phone": "07086916938"
+      }
+    ],
+    "count": 48615,
+    "mode_default": "list",
+    "tops_exist": false,
+    "total_pages": 500
+  },
+  "extra_data": { "message": null },
+  "listing_id": "amgxJ23KXYKuOL-H",
+  "next_url": "https://jiji.ng/api_web/v1/listing?query=Air+conditioner&page=3",
+  "status": "ok"
+}
